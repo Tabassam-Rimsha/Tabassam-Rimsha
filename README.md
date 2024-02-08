@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tabassam-Rimsha
+- 👋 Hi, I’m @Rimsha Tabassam
 - 👀 I’m interested in exploring various aspects of technology, including software development, data science, and emerging technologies.
 - 🌱 I’m currently learning Computer Sciences, diving into areas such as algorithms, data structures, and programming languages like C,C++m html,CSS and assembly language.
 -  💞️ I’m looking to collaborate on innovative projects that involve website development. Open to exciting opportunities and eager to contribute to meaningful initiatives.
